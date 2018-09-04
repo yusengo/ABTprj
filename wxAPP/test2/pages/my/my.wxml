@@ -1,0 +1,12 @@
+<view class="container">
+  <view class="header">
+    <view class="userImg"></view>
+    <view class="userName">炬远智能科技（上海）有限公司</view>
+  </view>
+  <view class="content">
+    <view class="coupon">10元优惠券</view>
+    <view class="address">我的收货地址：交大零号湾炬远智能</view>
+    <view class="tel">18202116758</view>
+    <view class="signOut">退出账号</view>
+  </view>
+</view>
